@@ -1,25 +1,39 @@
-import logo from './logo.svg';
+import {Component} from 'react';
+import {useState} from 'react';
 import './App.css';
 
+
+const reuseComponet = 
+  <div className="comptext">
+    <br></br>
+    <h2>Pet</h2>
+    <p>Name:</p>
+    <p>Breed:</p>
+    <p>Owner:</p>
+      <br></br>
+    
+
+  </div>;
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return <div>
+      <br></br>
+      <div className="compsection">
+      <div className="compbox">{reuseComponet}</div>
+      <div className="compbox">{reuseComponet}</div>
+      <div className="compbox">{reuseComponet}</div>
+      <div className="compbox">{reuseComponet}</div>
+      <div className="compbox">{reuseComponet}</div>
+      <div className="compbox">{reuseComponet}</div>
+    </div> 
+    </div> 
+
+
+
+
 }
+  
+
 
 export default App;
+
