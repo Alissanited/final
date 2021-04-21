@@ -8,19 +8,194 @@
 }
 .compbox {
   margin-left: 20px;
-  margin-bottom: 40px;
-  margin-top: 40px;
-  background-color: rgb(231, 208, 252);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
   border-style: solid;
-  width: 400px;
+  width: 300px;
 }
+  .compsection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 
-.compsection {
+.comptext1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox1 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
+.comptext2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox2 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 
+.comptext3 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox3 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 
+.comptext4 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox4 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+  .compsection4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 
+  .comptext5 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .compbox5 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(221, 208, 252);
+    border-style: solid;
+    width: 300px;
+  }
+    .compsection5 {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+
+.comptext6 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox6 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection6 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.comptext7 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox7 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection7 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.comptext8 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox8 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection8 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}      
+
+.comptext9 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox9 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection9 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.comptext10 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.compbox10 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(221, 208, 252);
+  border-style: solid;
+  width: 300px;
+}
+.compsection10 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
